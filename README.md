@@ -1,10 +1,5 @@
 ## Authentication Template Project With Laravel
-- Login
-- Register
-- Separate Role
-- Forgot Password
-- Reset Password
-- Dynamic Function CRUD
+Authentication template with dynamic function with Laravel 8.
 
 ## Page and Features
 - Login Page
