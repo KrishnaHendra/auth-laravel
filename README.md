@@ -11,6 +11,7 @@ Authentication template with dynamic function with Laravel 8.
     - CREATE
     - READ
     - UPDATE
+    - DELETE
 
 ## Backup
 - Sign In Page
