@@ -6,6 +6,7 @@ Authentication template with dynamic function with Laravel 8.
 - Sign Up Page
 - Forgot Password
 - Remember Me
+- Dynamic Role
 
 ## Backup
 - Sign In Page
