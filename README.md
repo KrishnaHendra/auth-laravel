@@ -4,6 +4,7 @@ Authentication template with dynamic function with Laravel 8
 ```
 
 ## Page and Features
+- Sign In Page
 
 ## Backup
 - Sign In Page
