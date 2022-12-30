@@ -12,6 +12,7 @@ Authentication template with dynamic function with Laravel 8
     - Administrator
     - Manager
     - Accounting
+    - Marketing
 - Dynamic Function
     - Create
     - Read
