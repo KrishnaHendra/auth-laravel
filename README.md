@@ -11,6 +11,7 @@ Authentication template with dynamic function with Laravel 8
 - Dynamic Role
 - Dynamic Function
     - Create
+    - Read
 
 ## Backup
 - Sign In Page
