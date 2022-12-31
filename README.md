@@ -3,7 +3,7 @@
 Authentication template with dynamic function with Laravel 8
 ```
 
-## Backup
+## Page and Features
 - Sign In Page
 - Sign Up Page
 - Forgot Password
