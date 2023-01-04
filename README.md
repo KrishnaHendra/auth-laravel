@@ -21,7 +21,6 @@ Authentication template with dynamic function with Laravel 8
     - Delete
 
 ## Backup
-- Forgot Password
 - Remember Me
 - Dynamic Role
     - Administrator
