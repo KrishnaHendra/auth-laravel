@@ -10,6 +10,7 @@ Authentication template with dynamic function with Laravel 8
 - Remember Me
 - Dynamic Role
     - Administrator
+    - Manager
 - Dynamic Function
     - Create
     - Read
