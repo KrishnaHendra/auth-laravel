@@ -28,7 +28,6 @@ Authentication template with dynamic function with Laravel 8
 - Dynamic Role
     - Administrator
     - Manager
-    - Accounting
 - Dynamic Function
 
 
