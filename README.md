@@ -20,7 +20,6 @@ Authentication template with dynamic function with Laravel 8
     - Update
     - Delete
 - Dynamic Function 2
-    - Read
     - Update
     - Delete
 
