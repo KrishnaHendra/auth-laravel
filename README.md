@@ -2,7 +2,7 @@
 ```
 Authentication template with dynamic function with Laravel 8
 ```
-ssss
+ssssads
 ## Page and Features
 - Sign In Page
 - Sign Up Page
